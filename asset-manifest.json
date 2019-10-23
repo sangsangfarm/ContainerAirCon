@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/sangsangfarm/ContainerAirCon/static/css/main.dfca195d.chunk.css",
-    "main.js": "/sangsangfarm/ContainerAirCon/static/js/main.b679b75c.chunk.js",
-    "main.js.map": "/sangsangfarm/ContainerAirCon/static/js/main.b679b75c.chunk.js.map",
-    "runtime-main.js": "/sangsangfarm/ContainerAirCon/static/js/runtime-main.1a3d60bb.js",
-    "runtime-main.js.map": "/sangsangfarm/ContainerAirCon/static/js/runtime-main.1a3d60bb.js.map",
-    "static/js/2.955a22bd.chunk.js": "/sangsangfarm/ContainerAirCon/static/js/2.955a22bd.chunk.js",
-    "static/js/2.955a22bd.chunk.js.map": "/sangsangfarm/ContainerAirCon/static/js/2.955a22bd.chunk.js.map",
-    "index.html": "/sangsangfarm/ContainerAirCon/index.html",
-    "precache-manifest.bd0c925164c2894e17312ca8bfe5a8c6.js": "/sangsangfarm/ContainerAirCon/precache-manifest.bd0c925164c2894e17312ca8bfe5a8c6.js",
-    "service-worker.js": "/sangsangfarm/ContainerAirCon/service-worker.js",
-    "static/css/main.dfca195d.chunk.css.map": "/sangsangfarm/ContainerAirCon/static/css/main.dfca195d.chunk.css.map",
-    "static/media/logo.svg": "/sangsangfarm/ContainerAirCon/static/media/logo.25bf045c.svg"
+    "main.css": "/ContainerAirCon/static/css/main.dfca195d.chunk.css",
+    "main.js": "/ContainerAirCon/static/js/main.327ecae4.chunk.js",
+    "main.js.map": "/ContainerAirCon/static/js/main.327ecae4.chunk.js.map",
+    "runtime-main.js": "/ContainerAirCon/static/js/runtime-main.b1cd4244.js",
+    "runtime-main.js.map": "/ContainerAirCon/static/js/runtime-main.b1cd4244.js.map",
+    "static/js/2.955a22bd.chunk.js": "/ContainerAirCon/static/js/2.955a22bd.chunk.js",
+    "static/js/2.955a22bd.chunk.js.map": "/ContainerAirCon/static/js/2.955a22bd.chunk.js.map",
+    "index.html": "/ContainerAirCon/index.html",
+    "precache-manifest.64a7afb245142859e6a651fe159507dd.js": "/ContainerAirCon/precache-manifest.64a7afb245142859e6a651fe159507dd.js",
+    "service-worker.js": "/ContainerAirCon/service-worker.js",
+    "static/css/main.dfca195d.chunk.css.map": "/ContainerAirCon/static/css/main.dfca195d.chunk.css.map",
+    "static/media/logo.svg": "/ContainerAirCon/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1a3d60bb.js",
+    "static/js/runtime-main.b1cd4244.js",
     "static/js/2.955a22bd.chunk.js",
     "static/css/main.dfca195d.chunk.css",
-    "static/js/main.b679b75c.chunk.js"
+    "static/js/main.327ecae4.chunk.js"
   ]
 }
